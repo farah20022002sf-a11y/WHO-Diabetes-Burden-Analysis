@@ -2,7 +2,7 @@
 
 ### A Comparative Analysis between Arab and European Regions using WHO Global Health Observatory Data
 
----
+
 
 ## 1️⃣ Project Overview
 
@@ -11,7 +11,7 @@ This project investigates **diabetes prevalence trends** from **1990 to 2022** a
 The analysis aims to uncover not only numeric differences but also the underlying question:
 > Do higher diabetes rates in Arab countries indicate a *greater health crisis*, or a *stronger health system* that detects more accurately?
 
----
+
 
 ## 2️⃣ Problem Statement
 
@@ -23,7 +23,7 @@ How do diabetes prevalence trends differ between Arab and European regions, and 
 - Misinterpreting regional data may mislead policy priorities.  
 - True insight requires distinguishing *data improvement* from *disease escalation*.
 
----
+
 
 ## 3️⃣ Methodology — Data Analyst Framework
 
@@ -37,7 +37,7 @@ How do diabetes prevalence trends differ between Arab and European regions, and 
 | **Recommendations** | Derive actionable insights | Identify Gulf paradox and policy implications |
 | **Next Steps** | Extend the research | Integrate predictive and multi-source data |
 
----
+
 
 ## 4️⃣ Data Source
 
@@ -47,7 +47,7 @@ How do diabetes prevalence trends differ between Arab and European regions, and 
 - **Variables:** Country, Year, Gender, Prevalence (%)
 - **Processed File:** `WHO_Diabetes_Cleaned_Analysis_Ready.xlsx`
 
----
+
 
 ## 5️⃣ Analytical Highlights
 
@@ -58,7 +58,7 @@ How do diabetes prevalence trends differ between Arab and European regions, and 
 | 🕒 **Sharp post-2000 increase in Arab region** | May align with expansion of screening programs and WHO collaboration. |
 | 🧩 **Within-region variability** | Highlights disparities in health infrastructure and data systems. |
 
----
+
 
 ## 6️⃣ Key Visuals
 
@@ -70,7 +70,7 @@ How do diabetes prevalence trends differ between Arab and European regions, and 
 | ⚧ *Gender Disparity Chart* | Female prevalence slightly higher in Arab data |
 | 🗺️ *Priority Map* | Highlights intervention and data quality priorities |
 
----
+
 
 ## 7️⃣ Insights & Recommendations
 
@@ -86,7 +86,7 @@ How do diabetes prevalence trends differ between Arab and European regions, and 
 **4. Build predictive monitoring models.**  
 > Estimate 2030 diabetes burden per country to guide health investments.
 
----
+
 
 ## 8️⃣ Next Steps
 
@@ -96,7 +96,7 @@ How do diabetes prevalence trends differ between Arab and European regions, and 
 | **Mid-term (6–24 months)** | Validate WHO data using national health registries. |
 | **Long-term (2+ years)** | Develop interactive dashboards for multi-country diabetes forecasting. |
 
----
+
 
 ## 9️⃣ Reflection — Analyst’s Note 🌿
 
@@ -105,7 +105,7 @@ How do diabetes prevalence trends differ between Arab and European regions, and 
 > What seems like a problem may, in fact, be a sign of progress:  
 > a health system that *sees* better, not one that *fails* more.”  
 
----
+
 
 ## 🔟 Technical Note
 
